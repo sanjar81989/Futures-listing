@@ -1,2 +1,2 @@
 # Futures-listing
-Bu botda xar kunlik Bybit da futuresgs listing belgan coinlar ruyxati avtomatik yuborib turiladi.
+Bu botda xar kunlik Bybit futuresga listing bo'lgan coinlar ruyxati avtomatik yuborib turiladi.
